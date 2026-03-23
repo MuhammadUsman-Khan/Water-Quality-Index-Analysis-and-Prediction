@@ -205,7 +205,7 @@ Water-Quality-Index-Analysis-and-Prediction/
 
 **Muhammad Usman Khan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-MuhammadUsman--Khan-181717?style=flat-square&logo=github)](https://github.com/MuhammadUsman-Khan)
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammadUsman--Khan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadUsman-Khan)
 
 ---
 
